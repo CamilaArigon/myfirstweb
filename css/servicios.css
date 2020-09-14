@@ -1,0 +1,24 @@
+
+p{
+    color: rgb(223, 215, 215);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    margin-left: 20px;
+    background-color: black;
+}
+ul.lista h2 {
+    color: rgb(223, 215, 215);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+ul.lista li{
+    margin-left: 20px;
+    background-color: rgba(177, 177, 177, 0.5);
+    color: rgb(19, 18, 17);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    line-height: 35px;
+}
